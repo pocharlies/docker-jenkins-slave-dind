@@ -1,5 +1,9 @@
-Jenkins Swarm Agent
+Softonic Jenkins Swarm Agent (Forked by pocharlies)
 -------------------
+
+[![](https://images.microbadger.com/badges/image/pocharlies/jenkins-swarm-agent.svg)](https://microbadger.com/images/pocharlies/jenkins-swarm-agent "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/pocharlies/jenkins-swarm-agent.svg)](https://microbadger.com/images/pocharlies/jenkins-swarm-agent "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/commit/pocharlies/jenkins-swarm-agent.svg)](https://microbadger.com/images/pocharlies/jenkins-swarm-agent "Get your own commit badge on microbadger.com")
 
 Usage
 -----
